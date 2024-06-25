@@ -1,5 +1,5 @@
 import pytest
-from pyicu_slugify import pyicu_slugify
+from pyicu_slugify.slugify import pyicu_slugify
 
 def test_basic_slugify():
     assert pyicu_slugify("Hello World!") == "hello-world"

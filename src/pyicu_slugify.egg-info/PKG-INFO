@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyicu-slugify
-Version: 0.1.dev1+g6abd27d.d20240625
+Version: 0.1.dev4+g6015967
 Summary: A CLDR-compliant slugify function using PyICU
 Author: Miguel Pachas García
 Author-email: miguel.pachas.garcia@gmail.com

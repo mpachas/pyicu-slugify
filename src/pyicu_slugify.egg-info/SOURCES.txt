@@ -5,6 +5,8 @@ pyproject.toml
 requirements.txt
 setup.cfg
 .github/workflows/python-package.yaml
+dist/pyicu_slugify-0.1.dev1+g6abd27d.d20240625-py3-none-any.whl
+dist/pyicu_slugify-0.1.dev1+g6abd27d.d20240625.tar.gz
 src/pyicu_slugify/__init__.py
 src/pyicu_slugify/slugify.py
 src/pyicu_slugify.egg-info/PKG-INFO
